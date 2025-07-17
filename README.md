@@ -56,15 +56,6 @@ docker run -p 8888:8888 khadijaparwez/lukemia-lukemia-notebook
 ### 1. Simple (Centralized)
 Traditional centralized training on combined dataset
 
-### 2. Traditional Federated Learning
-Standard federated approach
-
-### 3. Our Federated Learning
-Novel federated learning approach
-
-### 4. Individual Clients
-Train separate models for each client
-
 ## 🔍 Explainable AI Features
 * **SHAP**: SHapley Additive exPlanations
 * **LIME**: Local Interpretable Model-agnostic Explanations
@@ -72,11 +63,6 @@ Train separate models for each client
 * **GradCAM++**: Improved version of GradCAM
 * **Saliency Maps**: Feature importance visualization
 * **Integrated Gradients**: Attribution method for deep networks
-
-## 🔒 Privacy Features
-* Image encryption/decryption using random keys
-* Secure model aggregation in federated settings
-* Privacy-preserving evaluation metrics
 
 ## 📈 Evaluation Metrics
 * **Model Performance**: Accuracy, Precision, Recall, F1-score
